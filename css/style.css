@@ -10,8 +10,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4{
 }
 .header-panel {
   background-color: #00917C;
-  /*background-color: #009587;*/
-  height: 144px;
   position: fixed;
   z-index: 3;
   width: 100%;
